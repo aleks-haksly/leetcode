@@ -1,4 +1,6 @@
-# My solutions to LeetCode DataBase problems
+# LeetCode
+My solutions to LeetCode DataBase problems
+
 ### https://leetcode.com/
 
 
